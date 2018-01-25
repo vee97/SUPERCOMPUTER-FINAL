@@ -19,7 +19,6 @@ Thursday January 25, 2018
 - VCC to VIN
 
 -D9 to D8 of connected device
-
 *note: Both connected devices must have the same ground.
 
 ###### CONTROL PANEL & CENTRAL BRAIN CODE
