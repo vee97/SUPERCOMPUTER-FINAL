@@ -17,6 +17,12 @@ Thursday January 25, 2018
 - SCL to A5
 - GND to GND
 - VCC to VIN
+- Anran Zhou
+- Katrina Larson
+- Mika Hirata
+- Natalie Le Huenen
+- Vivian Wong
+- Jerez Bain
 
 -D9 to D8 of connected device
 *note: Both connected devices must have the same ground.
