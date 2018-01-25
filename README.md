@@ -12,12 +12,10 @@ Thursday January 25, 2018
 - photoresistor to A0
 - pressure sensor to A1
 - potentiometer to A2
-
 - SDA to A4
 - SCL to A5
 - GND to GND
 - VCC to VIN
-
 -D9 to D8 of connected device
 *note: Both connected devices must have the same ground.
 
