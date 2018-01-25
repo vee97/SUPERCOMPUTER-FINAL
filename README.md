@@ -3,6 +3,11 @@
 ## Details
 Master control panel and central brain code.
 
+###### CONTROL PANEL & CENTRAL BRAIN CODE
+This code allows the control panel Arduino to read and check input values,
+display corresponding images on the Central Brain, and send appropriate
+information to each connected Arduino Nano using Software Serial.
+
 Code Development Team  
 DIGF 205 - Atelier II  
 Professor Nick Puckett  
@@ -19,11 +24,6 @@ Thursday January 25, 2018
 -D9 to D8 of connected device
 
 *note: Both connected devices must have the same ground.
-
-###### CONTROL PANEL & CENTRAL BRAIN CODE
-This code allows the control panel Arduino to read and check input values,
-display corresponding images on the Central Brain, and send appropriate
-information to each connected Arduino Nano using Software Serial.
   
 ## Contributors
 - Anran Zhou
